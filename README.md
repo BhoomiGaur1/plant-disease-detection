@@ -30,6 +30,18 @@ Early detection of plant diseases helps farmers take timely action and improve c
 
 ---
 
+## Model Results
+
+Model Accuracy: ~99%
+Validation Accuracy: ~99%
+
+Dataset: PlantVillage Dataset
+Model: CNN (Convolutional Neural Network)
+Epochs: 5
+
+---
+
+
 ## 📂 Project Structure
 
 ```
